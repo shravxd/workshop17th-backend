@@ -46,10 +46,15 @@ Built fully automated, declarative pipelines (`frontend_pipeline` & `backend_pip
 
 ## 📸 Deployment Visuals
 
-### 🟢 Jenkins Pipeline Stage View
-*This visual log displays the step-by-step success rates and execution runtime metrics of our lifecycle automation:*
-![Jenkins Pipeline Automation](assets/Screenshot%202026-03-18%20160742.png)
+### Jenkins Pipelines Overview
+*Both pipelines successfully running and automating our deployments:*
+![Jenkins Pipelines Running](assets/both%20pipeline%20running.png)
 
-### ☁️ AWS EC2 Dashboard
-*The live virtual compute infrastructure running active containerized staging slots:*
-![AWS EC2 Cloud Setup](assets/Screenshot%202026-03-17%20130641.jpg)
+### Frontend & Backend Pipeline Stage Views
+*Isolated pipeline tracking for individual application tiers:*
+![Frontend Pipeline](assets/frontend_pipeline.png)
+![Backend Pipeline](assets/backend_pipeline.png)
+
+### AWS EC2 Dashboard
+*The virtual compute infrastructure hosting our live containerized applications:*
+![AWS EC2 Cloud Setup](assets/EC2%20instance%20creation.png)
