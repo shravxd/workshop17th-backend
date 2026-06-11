@@ -2,7 +2,7 @@
 
 A hands-on DevOps project demonstrating automated continuous integration and continuous deployment (CI/CD) for a decoupled web application hosted on AWS infrastructure.
 
-> * 🖥️ **Frontend Client:** [shravaxd/workshop17th-frontend](https://github.com/shravaxd/workshop17th-frontend)
+> * 🖥️ **Frontend Client:** [shravaxd/workshop17th-frontend](https://github.com/shravxd/workshop17th-frontend)
 > * ⚙️ **Backend & Infrastructure:** *You are here!*
 
 
